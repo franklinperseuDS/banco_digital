@@ -4,15 +4,14 @@ Usando os conceitos de orientação a objeto na prática.
 
 ## dominio do problema
 
-The workspace contains two folders by default, where:
+"Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), aos quais possuem as funcionalidades de depósito, saque e transferência ( entre contas da própria instituição)."
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Conceitos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Utilizando os conceitos de orientação a objeto fiz esse projeto.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Abstração;
+- Encapsulamento;
+- Herança;
+- Polimorfismo;
